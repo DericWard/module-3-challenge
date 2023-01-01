@@ -9,7 +9,7 @@
 ### Installation:
 #### To install this app please clone: https://github.com/DericWard/module-3-challenge
 ### Live site: 
-#### To view the live site please visit: https://dericward.github.io/module-3_challenge/#
+#### To view the live site please visit: https://dericward.github.io/module-3-challenge/#
 ### Tests:
 #### This is a simple app, testing basically consists of ensuring all of the links work and the text and images are correct and corresponding.
 ### App screenshots desktop views:
