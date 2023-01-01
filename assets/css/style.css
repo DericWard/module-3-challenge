@@ -5,6 +5,9 @@
   width: 40px;
   margin-right: 10px;
 }
+.dropdown-menu p {
+  padding: 10px;
+}
 .btn { /* BUTTONS */
   color: black;
   background-color: aqua;
@@ -75,5 +78,8 @@
   .offcanvas-header { /* COLLAPSED NAVBAR */
     color: black;
     background-color: white;
+  }
+  .offcanvas-header p { /* COLLAPSED NAVBAR ABOUT TEXT*/
+    margin-left: 10px;
   }
 } 
