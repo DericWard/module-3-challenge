@@ -5,7 +5,7 @@
 #### Bootstrap Offcanvas Navbar: https://getbootstrap.com/docs/5.1/examples/offcanvas-navbar/
 ##### These Bootstrap Example components have been edited as required.
 ### Motivation: 
-#### The motivation for this project was to satisfy assignement 3 of edX's Front End Web Development bootcamp course and to learn how to integrate Bootstrap components into projects.
+#### The motivation for this project was to satisfy assignement 3 of edX's Front End Web Development bootcamp course and to practice integrating Bootstrap components into projects.
 ### Installation:
 #### To install this app please clone: https://github.com/DericWard/module-3-challenge
 ### Live site: 
