@@ -12,7 +12,16 @@
 #### To view the live site please visit: https://dericward.github.io/module-3_challenge/#
 ### Tests:
 #### This is a simple app, testing basically consists of ensuring all of the links work and the text and images are correct and corresponding.
-### App screenshot:
+### App screenshots desktop views:
 ![image](https://user-images.githubusercontent.com/50495939/210184375-16342420-27e7-4d0e-85a9-c52375e54cc5.png)
+![image](https://user-images.githubusercontent.com/50495939/210184399-ba4dd4c0-edf4-479c-b358-5d675d1ac10b.png)
+![image](https://user-images.githubusercontent.com/50495939/210184417-7cdd47c1-18d6-44a1-912e-6e0c6b3fa46a.png)
+![image](https://user-images.githubusercontent.com/50495939/210184439-ff42d9b7-1af3-4d3e-a2e6-b957dbe862c9.png)
+![image](https://user-images.githubusercontent.com/50495939/210184464-78f49c2c-6d66-4fd0-b13e-1caa933cd60c.png)
+### App screenshots mobile views:
+![image](https://user-images.githubusercontent.com/50495939/210184492-5fb14e36-982d-4390-beeb-b0b2b9eade42.png)
+![image](https://user-images.githubusercontent.com/50495939/210184519-54c27010-6e4b-4d9c-95d1-9b8b6bf8c62e.png)
+
+
 
 
