@@ -13,5 +13,6 @@
 ### Tests:
 #### This is a simple app, testing basically consists of ensuring all of the links work and the text and images are correct and corresponding.
 ### App screenshot:
-![image](https://user-images.githubusercontent.com/50495939/210184336-5ca5ff6b-056d-42da-9950-99bf96ebd184.png)
+![image](https://user-images.githubusercontent.com/50495939/210184375-16342420-27e7-4d0e-85a9-c52375e54cc5.png)
+
 
