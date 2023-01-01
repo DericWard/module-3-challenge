@@ -20,7 +20,7 @@
 ![image](https://user-images.githubusercontent.com/50495939/210184464-78f49c2c-6d66-4fd0-b13e-1caa933cd60c.png)
 ### App screenshots mobile views:
 ![image](https://user-images.githubusercontent.com/50495939/210184492-5fb14e36-982d-4390-beeb-b0b2b9eade42.png)
-![image](https://user-images.githubusercontent.com/50495939/210184519-54c27010-6e4b-4d9c-95d1-9b8b6bf8c62e.png)
+![image](https://user-images.githubusercontent.com/50495939/210186178-98a38bd0-6091-4f77-9369-421f7ce96780.png)
 
 
 
