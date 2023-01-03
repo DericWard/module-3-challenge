@@ -17,7 +17,7 @@
 ![image](https://user-images.githubusercontent.com/50495939/210184399-ba4dd4c0-edf4-479c-b358-5d675d1ac10b.png)
 ![image](https://user-images.githubusercontent.com/50495939/210184417-7cdd47c1-18d6-44a1-912e-6e0c6b3fa46a.png)
 ![assignment-3_page-bottom-screenshot](https://user-images.githubusercontent.com/50495939/210370609-c668fa9b-3957-4fdf-8648-a7f87293964e.PNG)
-![image](https://user-images.githubusercontent.com/50495939/210184464-78f49c2c-6d66-4fd0-b13e-1caa933cd60c.png)
+![assignment-3_dropdown-screenshot](https://user-images.githubusercontent.com/50495939/210371048-b0e06c6c-e514-41d3-a191-b261a97a72b3.PNG)
 ### App screenshots mobile views:
 ![image](https://user-images.githubusercontent.com/50495939/210184492-5fb14e36-982d-4390-beeb-b0b2b9eade42.png)
 ![image](https://user-images.githubusercontent.com/50495939/210370459-f3d518cd-74eb-458a-b194-8f519d65576c.png)
